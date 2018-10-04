@@ -1,2 +1,2 @@
 # privacy-policy
-https://raw.githubusercontent.com/muankit/privacy-policy/master/privacy_policy.html
+https://cdn.rawgit.com/muankit/privacy-policy/3d30ccc6/privacy_policy.html
